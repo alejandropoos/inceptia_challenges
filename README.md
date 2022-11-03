@@ -28,7 +28,7 @@ Ejecutar:
 Listo, ya tendríamos nuestro Virtual Environment creado y activado.
 Nos deberia figurar así la terminal:
 
-<img width="517" alt="venv" src="https://raw.githubusercontent.com/alejandropoos/inceptia_challenges/master/src/terminal_venv.png">
+<img width="517" alt="venv" src="https://github.com/alejandropoos/inceptia_challenges/blob/main/src/terminal_venv.PNG">
 
 Ahora debemos instalar las dependencias para el correcto funcionamiento del script.
 
